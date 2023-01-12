@@ -34,7 +34,7 @@ public class Problem36 {
 	
 	public static void main(String [] args) {
 
-        // Solution driver
+        // Program driver
 		for(int counter = 0; counter < 1000000; counter++) {
 			if(isPalindrome(Integer.toBinaryString(counter)) //Binary palindrome check 
 					&& isPalindrome(Integer.toString(counter))) { //Decimal palindrome check

@@ -10,7 +10,7 @@ By considering the terms in the Fibonacci sequence whose values do not exceed fo
 
 /**
  * 
- * @author Jacob Sherrill
+ * @author Jacob
  * @date Sunday, 6 July 2014 1:41PM
  * I messed up on the argument, and not understanding the Fibonacci algorithm iteratively, or even recursively.
  */
